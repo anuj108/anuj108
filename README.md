@@ -10,7 +10,7 @@
  <img scr= " " width=100px height= 100px>
 </div> -->
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/72952554/152414568-915b93eb-0a5d-494a-abd2-964b9a1167d3.png" />
 
