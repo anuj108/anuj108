@@ -1,7 +1,7 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
-
+<!-- <a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+ -->
 * 📖 Pursuing my Bachelor's in Computer Science and Engineering from ABES ENGINEERING COLLEGE. 
 
 * 🧑🏻‍💻 Tech enthusiast, developer & competitive coder. 
@@ -25,10 +25,10 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
         <a href="https://portfolio-8886c.web.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="https://asmit.bio.link/">
+	<a href="https://bio.link/anuj108">
 		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 	</a>
-        <a href="mailto:asmitbm2952002@gmail.com">
+        <a href="mailto:shakya.anuj910@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
