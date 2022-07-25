@@ -16,13 +16,13 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
 	<a href="https://www.linkedin.com/in/anuj-s-7840711a0/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<a href="https://twitter.com/AnujShakya10877">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://dev.to/asmit2952">
+	<a href="https://dev.to/anuj108">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-        <a href="https://asmit2952.github.io/">
+        <a href="https://portfolio-8886c.web.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://asmit.bio.link/">
