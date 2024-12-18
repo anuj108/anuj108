@@ -22,7 +22,7 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
 	<a href="https://dev.to/anuj108">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-        <a href="https://portfolio-8886c.web.app/">
+        <a href="https://portfolio-8886c.web.app/](https://portfolio404.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://bio.link/anuj108">
