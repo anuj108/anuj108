@@ -132,5 +132,5 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
 ---
 
 <p align="center">
-   <img src="https://github.com/anuj108/anuj108/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/anuj108/anuj108/output/github-contribution-grid-snake.svg" />
 </p>
