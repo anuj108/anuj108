@@ -65,12 +65,12 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuj108&show_icons=true&hide_border=true&theme=radical" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuj108&show_icons=true&hide_border=true&theme=radical" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj108&hide_border=true&theme=radical" />
 </p>
 
@@ -84,9 +84,10 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
 - [7 biases of dev-tool product teams](https://dev.to/asmit2952/7-biases-of-dev-tool-product-teams-1ng5) -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj108&layout=compact&hide_border=true&theme=radical" />
+<!-- <p align="center">
+  <img src="https://stats.dooboo.io/api/top-langs/?username=anuj108&layout=compact&theme=radical" />
+</p> -->
 
 ---
 
@@ -128,8 +129,6 @@ When I am not coding, you'll find me sleeping. Find out more about me & feel fre
 </p> -->
 
 <!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuj108/anuj108/output/github-contribution-grid-snake.svg" />
