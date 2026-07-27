@@ -2,13 +2,11 @@
 
 <!-- <a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
  -->
-* 📖 Pursuing my Bachelor's in Computer Science and Engineering from ABES ENGINEERING COLLEGE. 
+* 👨🏻‍💻 Software Engineer at CodeChef, building scalable products for competitive programming and online learning.
 
 * 🧑🏻‍💻 Tech enthusiast, developer & competitive coder. 
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
-
-* 💻 Currently learning [React](https://reactjs.org/).
 
 When I am not coding, you'll find me sleeping. Find out more about me & feel free to connect with me here:
 
